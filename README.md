@@ -19,7 +19,7 @@ This project explores **unsupervised learning techniques** to automatically flag
 ## 💻 Technologies Used
 - **Python**  
 - **Pandas** & **NumPy** – Data manipulation  
-- **Scikit-learn** – Unsupervised models (Isolation Forest, One-Class SVM)    
+- **Scikit-learn** – Unsupervised models (Isolation Fore)    
 - **Matplotlib & Seaborn** – Data visualization  
 
 ---
@@ -31,7 +31,7 @@ This project explores **unsupervised learning techniques** to automatically flag
 
 2. **Preprocessing:**  
    - Scale numerical features using `MinMaxScaler`  
-   - Optional: Apply dimensionality reduction (PCA) for visualization  
+   - Apply dimensionality reduction (PCA) for visualization  
 
 3. **Unsupervised Anomaly Detection:**  
    - Apply algorithm: **Isolation Forest** to detect anomalies   
